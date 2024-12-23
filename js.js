@@ -60,4 +60,3 @@ console.log(sor)
 sor.pop();
 console.log(sor)
 
-/
